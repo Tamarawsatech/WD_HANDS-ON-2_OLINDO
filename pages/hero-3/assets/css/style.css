@@ -1,0 +1,153 @@
+
+body {
+    background-color: #0e0e0e;
+  }
+
+.full-height {
+    min-height: 100vh;
+  }
+
+  /* Header */
+  .Headerdiwa {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.5rem;
+  }
+
+  .nav-container {
+    display: flex;
+    justify-content: center;
+    flex: 1;
+  }
+
+  /* nav links */
+  .navlinks {
+    font-size: 1.5rem;
+    font-weight: bold;
+    display: flex;
+    gap: 25px;
+  }
+
+  .nav-home {
+    background-color: #F90;
+    border: none;
+    color: black;
+    padding: 15px 40px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    margin: 0;
+    cursor: pointer;
+    transition: all .2s ease;
+    border: 1.5px solid #F90;
+    border-radius: 30px;
+    font-weight: 700;
+  }
+
+  .nav-about {
+    background-color: #F90;
+    border: none;
+    color: black;
+    padding: 15px 40px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    margin: 0;
+    cursor: pointer;
+    transition: all .2s ease;
+    border: 1.5px solid #F90;
+    border-radius: 30px;
+    font-weight: 700;
+  }
+
+  .nav-gallery {
+    background-color: #F90;
+    border: none;
+    color: black;
+    padding: 15px 40px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    margin: 0;
+    cursor: pointer;
+    transition: all .2s ease;
+    border: 1.5px solid #F90;
+    border-radius: 30px;
+    font-weight: 700;
+  }
+
+  .nav-contact {
+    background-color: #F90;
+    border: none;
+    color: black;
+    padding: 15px 40px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    margin: 0;
+    cursor: pointer;
+    transition: all .2s ease;
+    border: 1.5px solid #F90;
+    border-radius: 30px;
+    font-weight: 700;
+  }
+
+  .Title {
+    font-size: 2.5rem;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+    line-height: 1.2;
+}
+
+  .text {
+    color: #ffffff;
+    text-align: center;
+    font-size: x-large;
+  }
+
+  .franchise { /* bUTTON */
+    display: block;
+    margin: 0 auto;
+    padding: 0.5rem;
+    text-align: center;
+    width: 350px;
+    font-size: xx-large;
+    background-color: #F90;
+    border: none;
+    color: black;
+    font-size: 30px;
+    cursor: pointer;
+    transition: all .2s ease;
+    border-radius: 50px;
+    font-weight: 700;
+  }
+
+
+  /* diWATA MAIN LOGO */
+  .Diwatalogo {
+    border-radius: 100%;
+    width: 900px;
+    height: 900px;
+    margin: 0 auto;
+    display: block;
+    box-shadow: black 0px 0px 20px;
+  }
+  .img-container {
+    text-align: center;
+    margin-top: 20px;
+    background-color: #0e0e0e;
+  }
+
+  .foodpic {
+    width: 400px;
+    height: 400px;
+    margin: 20px;
+    border-radius: 10%;
+    box-shadow: 0 0 20px black;
+  }

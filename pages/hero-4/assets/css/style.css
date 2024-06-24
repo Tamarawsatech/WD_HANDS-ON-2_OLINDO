@@ -1,0 +1,91 @@
+.bgimg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -100;
+    width: 100%;
+    height: 100%;
+    object-fit:fill;
+    opacity: .99;
+  }
+.hero {
+    position: relative;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+.hero .background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+.content {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    position: relative;
+    z-index: 1;
+    width: 100%;
+    max-width: 1200px;
+    padding: 0 20px;
+}
+ .left {
+    flex: 3;
+    text-align: center;
+}
+.character-image {
+    width: 500%;
+    max-width: 500px;
+    border-radius: 10px;
+  }
+
+.right {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px;
+}
+.text-content {
+    text-align:end;
+}
+
+.title {
+    font-size: 5rem;
+    font-weight: bold;
+    color: rgb(238, 151, 21);
+    margin-bottom: 0px;
+    margin-top: 100px;
+    font-style: italic;
+}
+.subtitle {
+    font-size: 1.75rem;
+    color: #ffffff;
+    margin-bottom: 10px;
+    font-style: italic;
+}
+.button {
+    display: inline-block;
+    padding: 12px 24px;
+    background-color: #db2033;
+    color: #fff;
+    font-size: 1.2rem;
+    border-radius: 100px;
+    margin-top: 24px;
+}

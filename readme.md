@@ -4,23 +4,22 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/Tamarawsatech/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
-  </a>
+  <img src="https://api.daily.dev/devcards/v2/qOGQ7tNrK0AYdOk5zHnf5.png?type=default&r=esh" width="356" alt="karl's Dev Card"/></a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Hero & Card
+Hands on 2</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  This project showcases 5 Hero designs and a Card Gallery that contains 5 static cards styles and 5 Dynamic card styles
 </div>
-
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?pageTamarawsatech/WD_HANDS-ON-2_OLINDO)
 
 ---
 
@@ -38,7 +37,7 @@
           <a href="#key-components">Key Components</a>
         </li>
         <li>
-          <a href="#technology">Technology</a>
+          <a href="#technology">Technology Used</a>
         </li>
       </ol>
     </li>
@@ -57,26 +56,33 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
+The Project is  Named WD_HANDS-ON-2_OLINDO
+this project showcases 5 Hero designs and a Card Gallery that contains 5 static cards styles and 5 Dynamic card styles
 
 Guiding Question:
 - What is the project
+-The Project is a compilation of 5 hero designs and a card gallery that contains 5 static cards styles and 5 Dynamic card styles
 - Whats the purpose
+-The purpose of this project for us students to learn Html and css thouroughly by providing the said Reuirements
 - What are key components
+--The project showcases a variety of different hero designs and a gallery with static and dynamic Cards highlighting different designs and functionalities using HTML and CSS
 - What technology used and how it is used
+-he technology used are ;Html for the structure and CSS For the design manipulation,Aesthetics,Dynamic effects and for the IDE i used Visual Studio Code
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
-
+- MultiPage Website
+- Html structure
+- Examples and Variations of Hero and cards
+- Documentation and Instructions in the Readme.md
+- Additional Features for a user friendly interface the Cards come with its own instructions and Features provided in the Description For further Understanding on how the Different Designs and effects work.
+- Tested the Project for bugs and glitch making sure everything was working fine before deploying
 ### Technology
 <!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+
 
 ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
@@ -117,4 +123,6 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| DIWATA PARES OVERLOAD UPDATE | Used the photos for diwata paris page | https://www.youtube.com/watch?v=408mFSXBvXA |
+| Button by kirzin | Used As a guide for the button effects | https://uiverse.io/kirzin/selfish-kangaroo-64 |
+

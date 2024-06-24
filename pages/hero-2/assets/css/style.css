@@ -1,0 +1,76 @@
+body {
+    background: linear-gradient(to right, lightyellow, red); 
+    color: rgb(0, 0, 0);
+  }
+
+.text {
+    text-align: center;
+}
+
+.text h1 { /* SIOGO TITLE DESCRIPTION */
+    font-size: 1.5rem;
+}
+
+.text h2 { /* SIOGO TITLE */
+    font-size: 3rem;
+    font-weight: 800;
+    font-family: monospace;
+    color: white;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+    margin-bottom: 0%;
+}
+
+
+.text h3 { /* SIOGO FRanchiser */
+    font-size: 2.5rem;
+}
+.shop-button {
+    background-color: red;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: x-large;
+    padding: 0.5rem 1rem;
+    border-radius: 1rem;
+    margin-top: 1rem;
+    cursor: pointer;
+    border: none;
+}
+
+
+/* description section */
+.description-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.description {
+    text-align: left;
+    padding: 2rem;
+    font-size: large;
+    font-weight: bold;
+}
+.description h3 {
+    font-size: 2rem;
+    text-align: center;
+    ;
+}
+
+.description p {
+    margin-top: 0.5rem;
+    text-align: center;
+    font-size: larger;
+    font-weight: 700;
+  }
+
+/* logo */
+.siologo {
+    width: 600px;
+    height: 250px;
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
